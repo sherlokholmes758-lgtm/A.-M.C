@@ -1,0 +1,7 @@
+{
+  "name": "Vision AI Explorer",
+  "description": "Une application de vision par ordinateur en temps réel utilisant Gemini pour l'analyse d'objets, de texte et de scènes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
